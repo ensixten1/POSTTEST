@@ -25,3 +25,6 @@
 ["ensixten"] = {
     "hwid" = "SFcyMTMyMDYxMjUxMDhJRA=="
 }
+["ensixtens"] = {
+    "hwid" = "SFcyMTMyMDYxMjUxMDh=="
+}
