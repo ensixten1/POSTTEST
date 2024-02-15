@@ -16,3 +16,6 @@
 ["HELLOTEST123"] = {
     "hwid" = "HWIDhhs82828=="
 }
+["123"] = {
+    "hwid" = "7727HHShh"
+}
