@@ -22,3 +22,6 @@
 ["hshsh"] = {
     "hwid" = "82828=="
 }
+["ensixten"] = {
+    "hwid" = "SFcyMTMyMDYxMjUxMDhJRA=="
+}
