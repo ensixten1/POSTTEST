@@ -4,3 +4,6 @@
 ["hellossss"] = {
     "hwid" = "hshshs82828HWID=="
 }
+["ensixtenIsCool"] = {
+    "hwid" = "HwidAreGayPlaNoSp00fHIHI==BASE64"
+}
