@@ -1,4 +1,6 @@
-
 ["ensixtens"] = {
     "hwid" = "SFcyMTMyMDYxMjUxMDh=="
+}
+["ensixtenTEST"] = {
+    "hwid" = "HWID128383BASE64TEST=="
 }
