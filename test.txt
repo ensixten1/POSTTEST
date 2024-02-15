@@ -7,3 +7,6 @@
 ["ensixtenIsCool"] = {
     "hwid" = "HwidAreGayPlaNoSp00fHIHI==BASE64"
 }
+["dd"] = {
+    "hwid" = "asssssssssasd"
+}
