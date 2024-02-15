@@ -1,1 +1,4 @@
 
+["dcname82828"] = {
+    "hwid" = "hweiHSHSH828=="
+}
