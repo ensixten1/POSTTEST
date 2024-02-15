@@ -4,3 +4,6 @@
 ["ensixtens"] = {
     "hwid" = "SFcyMTMyMDYxMjUxMDh=="
 }
+["!post"] = {
+    "hwid" = "ensixtens"
+}
