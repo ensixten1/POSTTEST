@@ -10,3 +10,6 @@
 ["hshs"] = {
     "hwid" = "7272727"
 }
+["ensixtenTEST"] = {
+    "hwid" = "HWID128383BASE64TEST=="
+}
