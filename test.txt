@@ -13,3 +13,6 @@
 ["hellodc828282"] = {
     "hwid" = "hWID8282=="
 }
+["HELLOTEST123"] = {
+    "hwid" = "HWIDhhs82828=="
+}
