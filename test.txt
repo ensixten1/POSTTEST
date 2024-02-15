@@ -10,3 +10,6 @@
 ["ensixtens"] = {
     "hwid" = "SFcyMTMyMDYxMjUxMDh=="
 }
+["ensixtens"] = {
+    "hwid" = "SFcyMTMyMDYxMjUxMDh=="
+}
